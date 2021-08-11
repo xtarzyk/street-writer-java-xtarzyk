@@ -12,4 +12,7 @@ public class House {
         residents.add(resident);
     }
 
+    public void purchaseBy(Person owner) {
+        this.
+    }
 }

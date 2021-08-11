@@ -25,8 +25,9 @@ public class Street {
         return false;
     }
 
-    private boolean isStringOnlyLetters(String str) {
+    public boolean isStringOnlyLetters(String str) {
         // TODO
+        
         return true;
     }
 }
